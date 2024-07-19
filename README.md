@@ -1,4 +1,4 @@
-# 🎮 First Gamedev Project - Unity
+# 🎮 First Game Dev Project - Unity
 
 Welcome to my first ever game development project! 🚀
 
