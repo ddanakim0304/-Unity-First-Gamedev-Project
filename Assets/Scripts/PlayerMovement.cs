@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-
     // This is a reference to the Rigidbody component called "rb"
     public Rigidbody rb;
 
@@ -16,7 +15,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey("d"))
+        // Check for 'D' key or right arrow key
+        if (Input.GetKey("d") || Input.GetKey(KeyCode.RightArrow))
         {
             right = true;
         }
@@ -25,7 +25,8 @@ public class PlayerMovement : MonoBehaviour
             right = false;
         }
 
-        if (Input.GetKey("a"))
+        // Check for 'A' key or left arrow key
+        if (Input.GetKey("a") || Input.GetKey(KeyCode.LeftArrow))
         {
             left = true;
         }
@@ -33,7 +34,6 @@ public class PlayerMovement : MonoBehaviour
         {
             left = false;
         }
-        
     }
 
     // "Fixed" Update is for physics
@@ -41,12 +41,12 @@ public class PlayerMovement : MonoBehaviour
     {
         rb.AddForce(0, 0, forwardForce * Time.deltaTime);
 
-        if( right )
+        if (right)
         {
             rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
 
-        if( left )
+        if (left)
         {
             rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
