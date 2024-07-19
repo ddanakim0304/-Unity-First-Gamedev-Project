@@ -10,8 +10,7 @@ I really enjoyed working on it so hope you enjoy it too :D
 
 
 ## 🔗 Tutorial Reference
-I used [Brackey's "How to make a Video Game in Unity"](https://www.youtube.com/watch?v=IlKaB1etrik) on YouTube as a guide and expanded upon it by adding more elements.
+I used [Brackey's "How to make a Video Game in Unity"](https://www.youtube.com/watch?v=IlKaB1etrik) on YouTube as a guide and expanded upon it by adding more elements. 
+I also referred to Practical Programming's [3D ENDLESS RUNNER IN UNITY](https://www.youtube.com/watch?v=XUVtQwKbZ-c&t=321s) to randomize the occurrence of obstacles and create endless ground tiles.
 
-
-
-Thank you for checking out my project! Stay tuned for updates and improvements. 🌟
+Thank you for checking out my project! Stay tuned for updates and improvements 🐋
