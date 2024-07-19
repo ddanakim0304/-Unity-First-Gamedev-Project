@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Pretendard-ExtraLight SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -858464269
   material: {fileID: 8891442520284541504}
-  materialHashCode: 0
+  materialHashCode: -1215743117
   m_Version: 1.1.0
   m_SourceFontFileGUID: 2d579abcd54764b18984b8980ff61f61
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 2d579abcd54764b18984b8980ff61f61, type: 3}
@@ -2705,7 +2705,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _FaceTex:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 0, y: 0}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 3718870974964271579}
@@ -2745,9 +2745,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0

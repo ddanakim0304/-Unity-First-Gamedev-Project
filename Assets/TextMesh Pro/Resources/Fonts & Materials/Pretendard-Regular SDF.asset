@@ -121,9 +121,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
@@ -168,9 +168,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Pretendard-Regular SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -909912979
   material: {fileID: -1377913471287411349}
-  materialHashCode: 0
+  materialHashCode: -222629715
   m_Version: 1.1.0
   m_SourceFontFileGUID: 4494c75b002734466a7d7066364364d2
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 4494c75b002734466a7d7066364364d2, type: 3}
