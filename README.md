@@ -1,4 +1,5 @@
 # 🎮 First Game Dev Project - Unity
+<img width="968" alt="game dev screen" src="https://github.com/user-attachments/assets/f4a5f251-a6f2-4bda-936e-ba19983bc7ed">
 
 ### 2024/07/17 ~ Work in progress
 Welcome to my first ever game development project! 🚀
