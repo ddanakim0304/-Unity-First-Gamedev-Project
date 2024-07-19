@@ -5,7 +5,7 @@ Welcome to my first ever game development project! 🚀
 
 
 ## 📚 Introduction
-I started this project to learn Unity and C# with the goal of creating my own game. This project marks the beginning of my adventure into game development.
+I started this project to learn Unity and C# with the goal of creating my own game. I really enjoyed working on it so hope you enjoy it too :D
 
 
 
