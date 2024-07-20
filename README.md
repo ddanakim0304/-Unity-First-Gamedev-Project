@@ -1,11 +1,11 @@
 # 🎮 First Game Dev Project - Unity
 
-### 07/20 ~ Work in progress (v2.0)
-
 Welcome to my first ever game development project! 🚀
 
 ### [v1.0 Download (07/17/2024 ~ 07/20/2024)](https://drive.google.com/drive/u/2/folders/1eXQo3V9vhRr7_bFNMDC1At2BDctHdAND)
 For Mac users, if you see a warning about a malicious app, please right-click on the game and select "Open." This will bring up a dialog box with an option to open the installer.
+
+### v2.0 (07/20 ~ Work in progress)
 
 ## 📚 Introduction
 I started this project to learn Unity and C# with the goal of creating my own game. 
