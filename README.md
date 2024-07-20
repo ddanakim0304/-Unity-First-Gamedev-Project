@@ -1,5 +1,7 @@
 # 🎮 First Game Dev Project - Unity
-### 2024/07/17 ~ Work in progress
+### 07/17/2024 ~ 07/20/2024 (v1.0)
+### 07/20 ~ Work in progress (v2.0)
+
 Welcome to my first ever game development project! 🚀
 <img width="968" alt="game dev screen" src="https://github.com/user-attachments/assets/f4a5f251-a6f2-4bda-936e-ba19983bc7ed">
 
