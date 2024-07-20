@@ -19,8 +19,8 @@ Welcome to my first ever game development project! 🚀
 
 ## 📚 Introduction
 
-
 <img width="774" alt="Screenshot 2024-07-20 at 5 04 05 PM" src="https://github.com/user-attachments/assets/3f9f898b-f503-4099-8798-1f38274bdd19">
+
 I started this project to learn Unity and C#, aiming to create my own game. I really enjoyed working on it and hope you enjoy playing it too! :D
 
 ## 🔗 Tutorial References
