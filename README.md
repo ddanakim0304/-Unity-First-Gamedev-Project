@@ -2,7 +2,7 @@
 
 Welcome to my first ever game development project! 🚀
 
-### [Play & Download v1.0 HERE (07/17/2024 ~ 07/20/2024)](https://ddanakim0304.itch.io/firstgame)
+### [PLAY & DOWNLOAD v1.0 HERE (07/17/2024 ~ 07/20/2024)](https://ddanakim0304.itch.io/firstgame)
 **For Mac users:** If you see a warning about a malicious app, right-click on the game and select "Open." This will bring up a dialog box with an option to open the installer.
 
 ##### Features
