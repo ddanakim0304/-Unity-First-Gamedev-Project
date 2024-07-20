@@ -8,6 +8,8 @@ Welcome to my first ever game development project! 🚀
 ### Features
 - A 3D game where you move the player left and right to avoid obstacles.
 - Four levels with an increasing number of obstacles.
+- If you bump into an obstacle, the game automatically restarts at the same level.
+- The score is calculated based on the player's distance moved.
 
 ### v2.0 (07/20 ~ Work in progress)
 
