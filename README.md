@@ -1,6 +1,6 @@
 # 🎮 First Game Dev Project - Unity
 
-Welcome to my first ever game development project! 🚀
+### Welcome to my first ever game development project! 🚀
 
 
 <img width="968" alt="game dev screen" src="https://github.com/user-attachments/assets/f7a6cc62-992c-4176-ae9c-c7672275a85d">
@@ -21,6 +21,7 @@ Welcome to my first ever game development project! 🚀
 
 <img width="774" alt="Screenshot 2024-07-20 at 5 04 05 PM" src="https://github.com/user-attachments/assets/3f9f898b-f503-4099-8798-1f38274bdd19">
 
+#### Navigate a 3D world as a cube, dodging obstacles in this fast-paced action game. Use the left and right keys to steer and test your reflexes!
 I started this project to learn Unity and C#, aiming to create my own game. I really enjoyed working on it and hope you enjoy playing it too! :D
 
 ## 🔗 Tutorial References
