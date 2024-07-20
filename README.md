@@ -10,6 +10,7 @@ Welcome to my first ever game development project! 🚀
 - Four levels with an increasing number of obstacles.
 - If you bump into an obstacle, the game automatically restarts at the same level.
 - The score is calculated based on the player's distance moved.
+- Basic Start / Quit button
 
 ### v2.0 (07/20 ~ Work in progress)
 
