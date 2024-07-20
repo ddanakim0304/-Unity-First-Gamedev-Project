@@ -5,7 +5,7 @@ Welcome to my first ever game development project! 🚀
 ### [v1.0 Download (07/17/2024 ~ 07/20/2024)](https://drive.google.com/drive/u/2/folders/1eXQo3V9vhRr7_bFNMDC1At2BDctHdAND)
 **For Mac users:** If you see a warning about a malicious app, right-click on the game and select "Open." This will bring up a dialog box with an option to open the installer.
 
-### Features
+##### Features
 - A 3D game where you move the player left and right to avoid obstacles.
 - Four levels with an increasing number of obstacles.
 - If you bump into an obstacle, the game automatically restarts at the same level.
